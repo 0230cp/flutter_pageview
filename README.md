@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Project**
    
-  > git clone [https://github.com/0230cp/FlutterStudy_WebView.git](https://github.com/0230cp/flutter_pageview.git)
+  > git clone https://github.com/0230cp/flutter_pageview.git
 
 2. **Install Dependencies**
 
